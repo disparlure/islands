@@ -32,6 +32,8 @@
 .openlayers-popup table {
   font-size: 12px;
   margin: 0;
+  border-bottom: 1px solid;
+  max-width: 500px;
 }
 
 .openlayers-popup table tr {

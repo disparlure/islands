@@ -33,6 +33,7 @@
   font-size: 12px;
   margin: 0;
   border-bottom: 1px solid;
+  max-width: 500px;
 }
 
 .openlayers-popup table tr {
@@ -42,6 +43,7 @@
 .openlayers-popup table td {
   border: 0 none;
   padding: 0;
+  width: 166px;
 }
 
 .openlayers-tooltip-name {
