@@ -88,6 +88,14 @@ label.olButton {
     position: relative;
 }
 
+.openlayers-popup .views-label-body {
+   display: none;
+}
+
+.openlayers-popup .views-field-body b {
+   font-size: 15px;
+}
+
 /**
  * The following are images that are not in
  * this theme (but should be).

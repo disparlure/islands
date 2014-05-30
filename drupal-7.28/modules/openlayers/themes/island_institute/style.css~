@@ -43,6 +43,7 @@
 .openlayers-popup table td {
   border: 0 none;
   padding: 0;
+  width: 166px;
 }
 
 .openlayers-tooltip-name {
@@ -85,6 +86,14 @@ label.olButton {
 
 .openlayers-container {
     position: relative;
+}
+
+.openlayers-popup .views-label-body {
+   display: none;
+}
+
+.openlayers-popup .views-label-body b {
+   font-size: 15px;
 }
 
 /**
