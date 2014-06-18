@@ -1,0 +1,8 @@
+<?php
+
+function iicustom_views_pre_render(&$view) {
+  $view->attachment_before = '<div>Visit <a href="http://www.ykyuen.com">Eureka!</div>';
+  $view->attachment_after = '<div>Done =)</div>';
+}
+
+?>
